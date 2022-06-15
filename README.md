@@ -1,0 +1,3 @@
+# springcloud-config
+配置中心
+这是作为spring cloud项目学习过程中统一对各个服务的配置信息进行管理的的配置中心
