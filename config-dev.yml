@@ -1,2 +1,2 @@
 springcloud-config:
-  dev
+  info: "master version1"
